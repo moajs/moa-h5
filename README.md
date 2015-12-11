@@ -11,7 +11,7 @@
 - gulp
 - nginx
 
-![](doc/preview.png)
+![](doc/weui+iscroll.gif)
 
 ## 前后端分离实践
 
