@@ -1,0 +1,26 @@
+{
+  "name": "moajs-frontend",
+  "description": "the missing frontend framework with moajs",
+  "main": "",
+  "authors": [
+    "i5ting <i5ting@126.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/moajs/moa-h5",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iscroll": "~5.1.3",
+    "zepto": "~1.1.6",
+    "weui": "*",
+    "fastclick": "~1.0.6",
+    "Swiper": "swiper#~3.2.7",
+    "layzr.js": "~1.4.3"
+  }
+}
